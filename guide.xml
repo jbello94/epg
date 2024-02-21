@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240221">
 <channel id="Antena3Internacional.es"><display-name>Antena 3 Internacional</display-name><icon src="https://i.imgur.com/QMadWXp.png"/><url>https://gatotv.com</url></channel>
-<channel id="UniversalTV"><display-name>Imagen Universal TV</display-name><icon src="https://i.imgur.com/DP6HmDV.png"/><url>https://gatotv.com</url></channel>
+<channel id="UniversalTV"><display-name>Universal TV</display-name><icon src="https://i.imgur.com/DP6HmDV.png"/><url>https://gatotv.com</url></channel>
 <programme start="20240221050000 +0000" stop="20240221060000 +0000" channel="Antena3Internacional.es"><title lang="es">El chiringuito internacional</title></programme>
 <programme start="20240221060000 +0000" stop="20240221071500 +0000" channel="Antena3Internacional.es"><title lang="es">Zapeando</title></programme>
 <programme start="20240221071500 +0000" stop="20240221074500 +0000" channel="Antena3Internacional.es"><title lang="es">Noticias de la mañana</title></programme>
