@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UniversalTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Universal_TV_logo.svg" group-title="Undefined",UNIVERSAL TV
+#EXTINF:-1 tvg-id="UniversalTV" tvg-logo="" group-title="Undefined",UNIVERSAL TV
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antena_3_2017.svg/800px-Antena_3_2017.svg.png" group-title="Undefined",Antena3 Internacional
+#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-logo="" group-title="Undefined",Antena3 Internacional
 http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
