@@ -3,3 +3,15 @@
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-logo="" group-title="Undefined",Antena3 Internacional
 http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
+#EXTINF:-1 tvg-id="WBNSDT1.us" tvg-logo="https://i.imgur.com/S5Hqowu.png" group-title="Undefined",CBS 10 Columbus OH (WBNS) (1080p)
+https://lnc-wbns.tubi.video/live.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel
+http://38.96.178.201/live/Disney/index.m3u8
+#EXTINF:-1 tvg-id="E.mx" tvg-logo="" group-title="Undefined",E! Español
+http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="" group-title="Undefined",Telemundo Internacional
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="Undefined",Telemundo US
+http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Undefined",Univision East [Geo-blocked]
+https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
